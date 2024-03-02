@@ -1,6 +1,6 @@
 package com.teachmeskills.lesson16.service;
 
-import com.teachmeskills.lesson16.entity.Client;
+import com.teachmeskills.lesson16.model.Client;
 
 import java.util.ArrayList;
 import java.util.Iterator;

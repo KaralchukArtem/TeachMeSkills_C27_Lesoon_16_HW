@@ -1,7 +1,7 @@
 package com.teachmeskills.lesson16.fabric;
 
 import com.teachmeskills.lesson16.consts.PassportID;
-import com.teachmeskills.lesson16.entity.Client;
+import com.teachmeskills.lesson16.model.Client;
 
 import java.util.Date;
 import java.util.HashMap;

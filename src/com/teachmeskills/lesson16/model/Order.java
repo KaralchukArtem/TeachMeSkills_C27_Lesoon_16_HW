@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson16.entity;
+package com.teachmeskills.lesson16.model;
 
 public class Order {
 

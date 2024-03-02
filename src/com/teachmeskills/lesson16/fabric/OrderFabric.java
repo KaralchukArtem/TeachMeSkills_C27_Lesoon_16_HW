@@ -1,6 +1,6 @@
 package com.teachmeskills.lesson16.fabric;
 
-import com.teachmeskills.lesson16.entity.Order;
+import com.teachmeskills.lesson16.model.Order;
 
 import java.util.ArrayList;
 
